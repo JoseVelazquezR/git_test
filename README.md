@@ -3,4 +3,5 @@
 
 Repositorio prueba.
 
-Esto es un mensaje en mi archivo README
+Esto es un mensaje en la rama principal y esto va a causar 
+un conflicto
