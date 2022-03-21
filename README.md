@@ -1,2 +1,6 @@
 # git_test
-Repositorio prueba
+## Esto es un subtitulo
+
+Repositorio prueba.
+
+Esto es un mensaje en mi archivo README
